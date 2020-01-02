@@ -4,7 +4,7 @@ This script is my quick reproduction of the picture from [this Reddit post](http
 
 We start with seven circles formed as hexagon with each circle having a probability of being split into hexagon of sub-circles
 
-This script requires [Processing](https://github.com/erdavids/Cube-Towers/blob/master/processing.org) program to run.
+This script requires [Processing](https://www.processing.org) program to run.
 
 # Pictures
 
